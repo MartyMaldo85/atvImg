@@ -95,7 +95,7 @@ function atvImg(){
 
 		thisImg.id = 'atvImg__'+l;
 		containerHTML.className = 'atvImg-container';
-		shineHTML.className = 'atvImg-shine';
+		// shineHTML.className = 'atvImg-shine';
 		shadowHTML.className = 'atvImg-shadow';
 		layersHTML.className = 'atvImg-layers';
 
